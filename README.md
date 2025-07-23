@@ -17,7 +17,8 @@ Preprocessing was conducted in several stages, as illustrated in Fig. 1. First, 
 If you use this code in your research, please cite our paper.
 ```
 @article{
-title = {Unveiling Aroma: A Machine Learning Approach to Modeling Aroma Profiles from Chemical Components<img width="468" height="75" alt="image" src="https://github.com/user-attachments/assets/0182ed6e-afdd-4469-8c85-480391d746bb" />
+title = {Unveiling Aroma: A Machine Learning Approach to Modeling Aroma Profiles from Chemical Components
 },
-author = {Maria Baldeon-Calisto and Francisco Rivera-Velastegui and Susana K. Lai-Yuen and Daniel Riofrío and Noel Pérez-Pérez and Diego Benítez and Ricardo Flores-Moyano}}
+author = {David Flores and Carolina Lanas and Gabriel Velez and Nicolas Rios Ratkovich and Maria Baldeon-Calisto>
+}}
 ```
